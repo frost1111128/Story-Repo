@@ -1,3 +1,14 @@
 A story by Sam Hogenson
 
-There once was a programer who forgot his password. What was he to do? He had not written it down. But luckly...
+There once was a programer who forgot his password. What was he to do?
+ He had not written it down. But luckly...
+
+This clumsy programmer was still a programmer after all and he could use 
+his coding skills to obtain his password. He decided to code a brute 
+force algorythm inorder to gain back his password. After the brute force 
+ran a total of 1209382109 times, he finally got his password back. Since 
+he was able to gain back his password so easily, he decided to enable 
+multi-factor authorization so nobody could break into his account, and 
+so he would have a way to recover his password.
+
+
