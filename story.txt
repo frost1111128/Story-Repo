@@ -11,4 +11,7 @@ he was able to gain back his password so easily, he decided to enable
 multi-factor authorization so nobody could break into his account, and 
 so he would have a way to recover his password.
 
+To end the story, this clumsy programer would never forgot his password,
+nor would he have to worry about others getting into his account.
+
 
